@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chen, java devoloper
+I'm Chen, java devoloper, email: vanenea@gmail.com
 
 <!-- **vanenea/vanenea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
